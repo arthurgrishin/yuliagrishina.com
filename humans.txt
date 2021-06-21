@@ -1,0 +1,17 @@
+/* TEAM */
+Mastermind: Yulia Grishina
+Site: https://yuliagrishina.com
+Twitter: @yuliagrishina
+Location: Singapore
+
+Software Engineer: Arthur Grishin
+Site: https://arthurgrishin.com
+Twitter: @arthurgrishin
+GitHub: @arthurgrishin
+Location: Singapore
+
+/* SITE */
+Last update: 2021/06/21
+Language: English
+Standards: HTML5, CSS3
+Software: Git, Atom
